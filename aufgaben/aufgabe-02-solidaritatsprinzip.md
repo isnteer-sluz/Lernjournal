@@ -1,3 +1,2 @@
-# Input Solidaritätsprinzip
+# 📝 Aufgabe 02: Solidaritätsprinzip
 
-{% file src="../.gitbook/assets/02 Input Solidaritätsprinzip.pdf" %}

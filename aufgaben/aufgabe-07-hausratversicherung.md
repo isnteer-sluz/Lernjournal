@@ -1,2 +1,2 @@
-# Aufgabe 07: Hausratversicherung
+# 📝 Aufgabe 07: Hausratversicherung
 
