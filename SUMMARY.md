@@ -15,3 +15,6 @@
   * [📅 09.05.2025](lernjournal/09.05.2025.md)
   * [📅 16.05.2025](lernjournal/16.05.2025.md)
   * [📅 23.05.2025](lernjournal/23.05.2025.md)
+  * [📅 30.05.2025](lernjournal/30.05.2025.md)
+  * [📅 06.06.2025](lernjournal/06.06.2025.md)
+* [Zusatzmaterial](zusatzmaterial.md)
