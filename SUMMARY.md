@@ -5,6 +5,7 @@
   * [📝 Aufgabe 02: Solidaritätsprinzip](aufgaben/aufgabe-02-solidaritatsprinzip.md)
   * [📝 Aufgabe 03: Wie sind Sie versichert](aufgaben/aufgabe-03-wie-sind-sie-versichert.md)
   * [📝 Aufgabe 04: Versicherung für Jugendliche](aufgaben/aufgabe-04-versicherung-fur-jugendliche.md)
+  * [📝 05 Kasko-Versicherungen für Motorfahrzeuge](aufgaben/05-kasko-versicherungen-fur-motorfahrzeuge.md)
   * [📝 Aufgabe 07: Hausratversicherung](aufgaben/aufgabe-07-hausratversicherung.md)
   * [📝 Aufgabe 09: Krankenkasse, Abhängigkeiten und Fehleranreize](aufgaben/aufgabe-09-krankenkasse-abhangigkeiten-und-fehleranreize.md)
   * [📝 Aufgabe 10: Gesundheitskosten berechnen](aufgaben/aufgabe-10-gesundheitskosten-berechnen.md)
